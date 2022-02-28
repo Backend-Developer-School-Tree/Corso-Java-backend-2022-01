@@ -9,5 +9,6 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 | Module | Subject                | Contents                             |
 |--------|------------------------|--------------------------------------|
 | 1      | Java Syntax and naming | [Esercizi](module_01/src)            |
+| 3      | Git                    | [Labyrinth](module_03/src/Labyrinth) |
 
 <img src="assets/treelogo.png" height="75">
