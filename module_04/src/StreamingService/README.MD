@@ -5,7 +5,7 @@ Siamo ormai abituati a usufruire sempre più spesso di servizi di streaming che 
 Tra i più famosi possiamo citare _Netflix, Prime Video o Disney Plus_.
 
 
-![Rogue](./Immagini/netflix.png)
+![Rogue](Immagini/netflix.png)
 
 Molti elementi che compongono questi servizi, possono essere ricondotti ad una struttura a classi tipica della programmazione ad oggetti.
 
