@@ -1,4 +1,6 @@
- Creare un sistema in grado di gestire i prodotti venduti in un negozio. Si tratta di un negozio in
+# Negozio 🏍
+
+Creare un sistema in grado di gestire i prodotti venduti in un negozio. Si tratta di un negozio in
 pieno centro storico, quindi potrà gestire al massimo 100 tipi diversi di prodotto. In particolare, il 
 si tratta di un supermercato dove si vendono sia beni alimentari che non. Inoltre, il proprietario ha 
 deciso di fare uno sconto del 20% sui prodotti di genere alimentare tutti i lunedì e mercoledì per 
