@@ -44,14 +44,3 @@ HINT 1: Non esiste "la soluzione" di questo esercizio, è possibile tirare fuori
 HINT 2: Se avete una domanda da fare sul sistema, fatela sul canale discord, è più veloce e potrebbe essere d'aiuto per altri gruppi.
 
 HINT 3: Se pensate che una certa libreria esterna può esservi utile per risolvere un determinato problema...Usatela!
-
-
-
-
-Nome | Soluzione 
------------- | -------------
-Stanza 1 |[Soluzione](https://github.com/agonick/Stanza1/tree/main/SharingMob1) 
-Stanza 2/3 |[Soluzione](https://github.com/HarlockOfficial/Corso-Java-backend-2021-GroupProject/tree/main/Project_1)
-Stanza 3/5 |[Soluzione](https://github.com/DanieleIuliano/Progetto-Java-Enjoy)
-Stanza 4 |[Soluzione](https://github.com/MicheleBiscotti/CarSharing)
-Stanza 6 |[Soluzione](https://github.com/Gamba7/classe-6/tree/main/Shared%20Company)
