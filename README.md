@@ -6,12 +6,25 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 
 # Index
 
-| Module | Subject                | Contents                             |
-|--------|------------------------|--------------------------------------|
-| 1      | Java Syntax and naming | [Esercizi](module_01/src)            |
-| 3      | Git                    | [Labyrinth](module_03/src/Labyrinth) |
-| 4      | OOP  | [Esercizi](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2022-01/tree/main/module_04/src)|
-| 5      | Ereditarietà Base  | [Distributore Bevande](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2022-01/tree/main/module_05/src/distributore_bevande), [Gestore Veicoli](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2022-01/tree/main/module_05/src/gestione_veicoli) |
-| 6      | Ereditarietà Avanzata  | [Esercizi](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2022-01/tree/main/module_06/src), [Esempi interfacce](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2022-01/tree/main/module_06/src/esempioInterfacce)|
+| Module | Subject                 | Contents                             |
+|--------|-------------------------|--------------------------------------|
+| 1      | Java Syntax and naming  | [Esercizi](module_01/src)            |
+| 2      | Control flow statements | [Esercizi matrici](module_02/src)    |
+| 3      | Git                     | [Labyrinth](module_03/src/Labyrinth) |
+| 4      | OOP                     | [Esercizi](module_04/src)            |
+| 5      | Ereditarietà Base       | [Distributore Bevande](module_05/src/distributore_bevande), [Gestore Veicoli](module_05/src/gestione_veicoli) |
+| 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)|
+<!--
+| 7      | Generics & Collections   | [Esercizi](module_07/src) |
+| 8      | Eccezioni e annotazioni  | [Esercizi](module_08/src) |
+| 9      | Packages                 | [Esercizi](module_09/src) |
+| 10     | Design Patterns          | [Esercizi](module_10/src) |
+| 12     | Java Stream              | [Esercizi](module_12/src) |
+| 13     | API                      | [Esercizi](module_13/src) |
+| 14     | Spring                   | [Esercizi](module_14/src) |
+| 15     | Design Patterns          | [Esercizi](module_15/src) |
+| 16     | Database                 | [Esercizi](module_16/src) |
+| 18     | Test                     | [Esercizi](module_18/src) |
+-->
 
 <img src="assets/treelogo.png" height="75">
