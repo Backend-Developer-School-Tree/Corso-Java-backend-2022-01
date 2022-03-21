@@ -6,18 +6,18 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 
 # Index
 
-| Module | Subject                 | Contents                             |
-|--------|-------------------------|--------------------------------------|
-| 1      | Java Syntax and naming  | [Esercizi](module_01/src)            |
-| 2      | Control flow statements | [Esercizi matrici](module_02/src)    |
-| 3      | Git                     | [Labyrinth](module_03/src/Labyrinth) |
-| 4      | OOP                     | [Esercizi](module_04/src)            |
+| Module | Subject                 | Contents                                                                                                      |
+|--------|-------------------------|---------------------------------------------------------------------------------------------------------------|
+| 1      | Java Syntax and naming  | [Esercizi](module_01/src)                                                                                     |
+| 2      | Control flow statements | [Esercizi matrici](module_02/src)                                                                             |
+| 3      | Git                     | [Labyrinth](module_03/src/Labyrinth)                                                                          |
+| 4      | OOP                     | [Esercizi](module_04/src)                                                                                     |
 | 5      | Ereditarietà Base       | [Distributore Bevande](module_05/src/distributore_bevande), [Gestore Veicoli](module_05/src/gestione_veicoli) |
-| 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)|
+| 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)                               |
+| 9      | Packages                | [Esempio ReaderWriter](module_09/src/EsempioReaderWriter/ReaderWriter.java), [Esercizi](module_09/src)               |
 <!--
 | 7      | Generics & Collections   | [Esercizi](module_07/src) |
 | 8      | Eccezioni e annotazioni  | [Esercizi](module_08/src) |
-| 9      | Packages                 | [Esercizi](module_09/src) |
 | 10     | Design Patterns          | [Esercizi](module_10/src) |
 | 12     | Java Stream              | [Esercizi](module_12/src) |
 | 13     | API                      | [Esercizi](module_13/src) |

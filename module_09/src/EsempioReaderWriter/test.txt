@@ -1,0 +1,4 @@
+Prima riga di un file di testo
+Seconda riga di un file di testo
+Terza riga di un file di testo
+Quarta riga di un file di testo
