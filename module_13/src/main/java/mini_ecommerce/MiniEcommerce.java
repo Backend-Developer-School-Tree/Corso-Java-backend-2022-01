@@ -13,7 +13,7 @@ public class MiniEcommerce {
     private static Set<Product> products = new HashSet<>();
 
     public static void main(String[] args) {
-        path("/module_16/ecommerce", () -> {
+        path("/module_13/ecommerce", () -> {
             path("/product", () -> {
                 post("/add", (req, res) -> {
                     Product product = gson.fromJson(req.body(), Product.class);

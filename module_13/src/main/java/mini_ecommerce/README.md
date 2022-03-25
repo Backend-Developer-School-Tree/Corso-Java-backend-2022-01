@@ -1,4 +1,4 @@
-Esercizio Mini E-Commerce 🛴
+# Esercizio Mini E-Commerce 🛴
 
 Creare un Web Service in grado di gestire una piccola piattaforma di e-commerce dedicata
 alla vendita di prodotti. Ogni prodotto acquistabile possiede un id univoco, un nome, una breve
