@@ -15,12 +15,12 @@ This repo collects all the excercises produced and gathered by [Melvin Massotti]
 | 5      | Ereditarietà Base       | [Distributore Bevande](module_05/src/distributore_bevande), [Gestore Veicoli](module_05/src/gestione_veicoli) |
 | 6      | Ereditarietà Avanzata   | [Esercizi](module_06/src), [Esempi interfacce](module_06/src/esempioInterfacce)                               |
 | 9      | Packages                | [Esempio ReaderWriter](module_09/src/EsempioReaderWriter/ReaderWriter.java), [Esercizi](module_09/src)               |
+| 13     | API                     | [Esercizi](module_13/src/main/java) |
 <!--
 | 7      | Generics & Collections   | [Esercizi](module_07/src) |
 | 8      | Eccezioni e annotazioni  | [Esercizi](module_08/src) |
 | 10     | Design Patterns          | [Esercizi](module_10/src) |
 | 12     | Java Stream              | [Esercizi](module_12/src) |
-| 13     | API                      | [Esercizi](module_13/src) |
 | 14     | Spring                   | [Esercizi](module_14/src) |
 | 15     | Design Patterns          | [Esercizi](module_15/src) |
 | 16     | Database                 | [Esercizi](module_16/src) |
